@@ -32,7 +32,9 @@ A saúde mental abrange uma ampla gama de questões, desde o bem-estar emocional
 
 ## 4. Funcionalidades da Plataforma
 **Login Seguro:** Os usuários terão acesso a um ambiente seguro onde poderão armazenar e monitorar seu progresso ao longo do tempo.
+
 **Quiz Diário:** Uma ferramenta simples e eficaz para que os usuários possam avaliar diariamente seu estado emocional, com feedback instantâneo e dicas personalizadas.
+
 **Mapeamento Geográfico:** Recursos locais classificados por tags que permitem aos usuários encontrar rapidamente o suporte que precisam, seja um profissional de saúde mental ou um grupo de apoio na comunidade.
 
 ## 5. Metodologia de Pesquisa
