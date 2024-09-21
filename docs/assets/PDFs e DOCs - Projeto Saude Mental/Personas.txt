@@ -1,0 +1,95 @@
+Personas
+
+Persona 1: João Silva
+- Idade: 28 anos
+- Hobby: Jogar videogames e trilhas
+- Trabalho: Analista de TI
+- Personalidade: Introvertido, analítico, gosta de rotina
+- Sonhos: Ter uma vida equilibrada, sem ansiedade e com mais tempo para hobbies
+- Objetos e Lugares: Utiliza aplicativos de meditação, calendário digital para organizar a rotina
+- Objetivos Chave: Deseja ferramentas que o ajudem a monitorar sua saúde mental de forma discreta e prática
+- Como devemos tratá-lo: Com empatia, sem julgamentos e oferecendo dicas práticas
+- Nunca devemos: Pressioná-lo ou invadir sua privacidade, pois ele preza muito pelo espaço pessoal
+
+Persona 2: Maria Oliveira
+- Idade: 35 anos
+- Hobby: Yoga e culinária saudável
+- Trabalho: Professora de ensino fundamental
+- Personalidade: Extrovertida, empática e comunicativa
+- Sonhos: Ajudar seus alunos a desenvolverem habilidades emocionais, além de manter seu bem-estar
+- Objetos e Lugares: Utiliza aplicativos de mindfulness e redes sociais para se conectar com amigos e familiares
+- Objetivos Chave: Busca uma maneira de monitorar sua saúde mental e aprender novas técnicas de relaxamento
+- Como devemos tratá-la: Com apoio positivo e dicas motivacionais, sempre reforçando o bem-estar
+- Nunca devemos: Criticar suas práticas ou sugerir que seus problemas são insignificantes
+
+Persona 3: Carlos Mendes
+- Idade: 42 anos
+- Hobby: Corrida e leitura de ficção científica
+- Trabalho: Gerente de Projetos
+- Personalidade: Determinado, competitivo, gosta de metas
+- Sonhos: Manter-se produtivo e saudável para dar exemplo aos seus filhos
+- Objetos e Lugares: Ferramentas de produtividade e monitoramento de desempenho
+- Objetivos Chave: Monitorar a saúde mental para não perder o foco no trabalho e na vida pessoal
+- Como devemos tratá-lo: Com clareza e soluções rápidas que o ajudem a manter sua rotina
+- Nunca devemos: Oferecer soluções que ele considere pouco práticas ou que interrompam seu fluxo de trabalho
+
+Persona 4: Ana Beatriz
+- Idade: 19 anos
+- Hobby: Dança e redes sociais
+- Trabalho: Estudante universitária
+- Personalidade: Criativa, curiosa, gosta de se expressar
+- Sonhos: Tornar-se psicóloga e influenciar positivamente a vida das pessoas
+- Objetos e Lugares: Aplicativos de redes sociais e plataformas de aprendizado online
+- Objetivos Chave: Quer uma ferramenta que a ajude a gerenciar suas emoções e entender melhor seu humor
+- Como devemos tratá-la: De forma encorajadora e com conteúdo visual atraente que a mantenha engajada
+- Nunca devemos: Tratar suas preocupações como "coisas de adolescente" ou diminuir sua perspectiva
+
+Persona 5: Lucas Pereira
+- Idade: 55 anos
+- Hobby: Jardinagem e pesca
+- Trabalho: Aposentado
+- Personalidade: Paciente, calmo, valoriza a simplicidade
+- Sonhos: Ter uma vida tranquila e aproveitar a aposentadoria sem preocupações
+- Objetos e Lugares: Jornal, rádio, e aplicativos básicos de notícias
+- Objetivos Chave: Manter-se mentalmente saudável e evitar sentimentos de solidão
+- Como devemos tratá-lo: Com paciência, explicando as funcionalidades de forma simples e direta
+- Nunca devemos: Usar linguagem técnica ou complicar as funcionalidades, pois ele busca simplicidade
+
+Persona 6: Júlia Souza
+- Idade: 30 anos
+- Hobby: Fotografia e viagens
+- Trabalho: Freelance de Marketing Digital
+- Personalidade: Dinâmica, adaptável, adora novidades
+- Sonhos: Conciliar sua carreira com a vida pessoal e manter uma rotina saudável
+- Objetos e Lugares: Redes sociais, aplicativos de produtividade e fotografia
+- Objetivos Chave: Quer uma plataforma que a ajude a monitorar e ajustar sua saúde mental mesmo com sua rotina agitada
+- Como devemos tratá-la: Com mensagens positivas, práticas e que incentivem o autocuidado
+- Nunca devemos: Ignorar seu estilo de vida multitarefa, sugerindo rotinas que não se adaptem à sua realidade
+
+
+Informações detalhadas sobre os personas
+
+1. João Silva (28 anos, Analista de TI)
+- Por que é necessário: João representa jovens adultos que lidam com estresse e ansiedade associados ao trabalho em ambientes de alta pressão, como TI. Ele necessita de ferramentas que se integrem facilmente à sua rotina, sendo um exemplo típico de um usuário que busca praticidade e privacidade. Compreender suas necessidades ajuda a adaptar a plataforma para oferecer suporte acessível e discreto, essenciais para esse público.
+- Impacto no projeto: Permite criar funcionalidades que sejam intuitivas e pouco intrusivas, como notificações discretas e feedbacks rápidos, atendendo à preferência por soluções que não atrapalhem o fluxo de trabalho.
+
+2. Maria Oliveira (35 anos, Professora de Ensino Fundamental)
+- Por que é necessário: Maria representa profissionais da educação que enfrentam desafios emocionais devido à sobrecarga de trabalho e o contato constante com alunos. Ela é uma persona que valoriza o bem-estar emocional, tanto dela quanto de quem está ao seu redor. Compreender Maria ajuda a moldar conteúdos que sejam motivacionais e que agreguem valor ao dia a dia, oferecendo suporte psicológico e dicas práticas.
+- Impacto no projeto: Auxilia na criação de recursos como dicas de relaxamento e meditação, além de fornecer conteúdos educacionais sobre saúde mental que podem ser usados por profissionais da área.
+
+3. Carlos Mendes (42 anos, Gerente de Projetos)
+- Por que é necessário: Carlos representa indivíduos que ocupam cargos de liderança e enfrentam alta pressão para se manterem produtivos e saudáveis. Ele busca por soluções rápidas e eficazes que o ajudem a gerenciar sua saúde mental sem comprometer sua rotina. Compreender Carlos permite ajustar o produto para que ele atenda a perfis que valorizam a eficiência e praticidade.
+- Impacto no projeto: Informa o desenvolvimento de funcionalidades que ofereçam suporte com feedback direto e que possam ser usados sem grandes interrupções na rotina, como relatórios de bem-estar e metas diárias.
+
+4. Ana Beatriz (19 anos, Estudante Universitária)
+- Por que é necessário: Ana representa a geração mais jovem, que está em busca de autoconhecimento e possui uma abordagem moderna e aberta à saúde mental. Ela valoriza a estética e a experiência do usuário, além de ter uma interação constante com redes sociais. Compreender Ana é crucial para garantir que o produto seja visualmente atraente e adequado às necessidades de um público jovem.
+- Impacto no projeto: Contribui para o design de interfaces intuitivas, visuais modernos e funcionalidades interativas, como quizzes diários e gamificação, que engajam e mantêm o usuário envolvido.
+
+5. Lucas Pereira (55 anos, Aposentado)
+- Por que é necessário: Lucas representa uma faixa etária que muitas vezes lida com sentimentos de isolamento e busca por simplicidade. Ele precisa de uma abordagem que seja fácil de entender e que não o faça sentir-se sobrecarregado por tecnologias complexas. Compreender Lucas ajuda a ajustar o projeto para ser inclusivo, garantindo que a plataforma possa servir um público diverso.
+- Impacto no projeto: Orienta o desenvolvimento de interfaces simples e guias de uso amigáveis que garantam acessibilidade a usuários menos familiarizados com tecnologia, ampliando o alcance do produto.
+
+6. Júlia Souza (30 anos, Freelance de Marketing Digital)
+- Por que é necessário: Júlia representa profissionais autônomos que têm rotinas dinâmicas e buscam equilíbrio entre vida pessoal e profissional. Ela é multitarefa, precisa de ferramentas que se adaptem a sua flexibilidade e que ajudem a gerenciar sua saúde mental em meio a uma agenda desorganizada. Compreender Júlia ajuda a criar soluções que sejam flexíveis, móveis e de fácil acesso.
+- Impacto no projeto: Informa a necessidade de desenvolver funcionalidades que permitam personalização e adaptação da plataforma ao estilo de vida do usuário, como quizzes diários que se encaixem na agenda e recursos móveis.
+
