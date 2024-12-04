@@ -1,0 +1,57 @@
+Histórias de Usuários
+
+1. João Silva (28 anos, Analista de TI)
+ - Eu como: João Silva, um usuário que lida com ansiedade no trabalho.
+ - Quero: Acessar um quiz diário sobre saúde mental.
+ - Porque/para: Monitorar meu estado emocional de forma discreta e prática.
+
+2. Maria Oliveira (35 anos, Professora de Ensino Fundamental)
+ - Eu como: Maria Oliveira, uma professora que busca equilíbrio emocional.
+ - Quero: Ter acesso a dicas diárias de relaxamento e técnicas de mindfulness.
+ - Porque/para: Melhorar meu bem-estar e ajudar meus alunos a lidar com o estresse.
+
+3. Carlos Mendes (42 anos, Gerente de Projetos)
+ - Eu como: Carlos Mendes, um gerente de projetos focado na produtividade.
+ - Quero: Receber relatórios semanais sobre meu progresso emocional.
+ - Porque/para: Avaliar como estou gerenciando meu estresse e ajustar minhas rotinas.
+
+4. Ana Beatriz (19 anos, Estudante Universitária)
+ - Eu como: Ana Beatriz, uma estudante universitária.
+ - Quero: Participar de um quiz interativo sobre saúde mental com feedback imediato.
+ - Porque/para: Aprender mais sobre meu humor e encontrar formas de melhorar meu bem-estar.
+
+5. Lucas Pereira (55 anos, Aposentado)
+ - Eu como: Lucas Pereira, um aposentado que busca manter-se mentalmente saudável.
+ - Quero: Acessar uma lista de grupos de apoio locais classificados por proximidade.
+ - Porque/para: Encontrar suporte emocional e social perto de casa.
+
+6. Júlia Souza (30 anos, Freelance de Marketing Digital)
+ - Eu como: Júlia Souza, uma profissional autônoma com rotina agitada.
+ - Quero: Receber notificações de lembretes para pausas e autocuidado durante o dia.
+ - Porque/para: Não me esquecer de cuidar da minha saúde mental em meio à correria.
+
+
+Requisitos Funcionais
+
+1. Quiz Diário: O sistema deve permitir que o usuário realize um quiz diário sobre saúde mental para monitorar seu estado emocional.
+2. Relatórios Semanais: O sistema deve gerar relatórios semanais com o progresso emocional do usuário, mostrando insights sobre humor e comportamento.
+3. Notificações de Autocuidado: O sistema deve enviar notificações diárias de autocuidado, sugerindo pausas e técnicas de relaxamento.
+4. Mapa de Recursos Locais: O sistema deve mostrar localizações geográficas de recursos de saúde mental classificados por tags, como clínicas, grupos de apoio, e atividades de bem-estar.
+5. Dicas Personalizadas: O sistema deve fornecer dicas de relaxamento personalizadas diariamente com base nas respostas do quiz.
+6. Cadastro e Login: O sistema deve permitir que os usuários se cadastrem e façam login para acessar as funcionalidades personalizadas.
+7. Atualização de Perfil: O sistema deve permitir que o usuário atualize suas informações pessoais, incluindo preferências de notificações e categorias de dicas.
+8. Histórico de Quiz: O sistema deve permitir que o usuário visualize seu histórico de quiz e respostas passadas.
+9. Compartilhamento de Resultados: O sistema deve permitir que o usuário compartilhe seus relatórios semanais com profissionais de saúde mental ou familiares de forma segura.
+10. Feedback Imediato: Após cada quiz, o sistema deve fornecer feedback imediato sobre o estado emocional do usuário com sugestões de ação.
+11. Agendamento de Atividades: O sistema deve permitir que o usuário agende atividades de autocuidado sugeridas pelas notificações, como meditação ou pausas para respiração.
+12. Monitoramento de Comportamento: O sistema deve coletar dados de uso para identificar padrões de comportamento e ajustar as sugestões de autocuidado.
+
+Requisitos Não Funcionais
+
+1. Disponibilidade: O sistema deverá estar disponível 24 horas por dia, 7 dias por semana, com alta disponibilidade para garantir acesso contínuo.
+2. Responsividade: O site deve ser responsivo, permitindo visualização adequada e fácil navegação em dispositivos móveis, tablets e desktops.
+3. Tempo de Resposta: O tempo de resposta para carregamento de quizzes, relatórios e mapas de recursos deve ser inferior a 2 segundos.
+4. Interface Intuitiva: O sistema deve ser implementado com interfaces intuitivas e acessíveis a todos os perfis de usuários, incluindo opções de acessibilidade para deficientes visuais.
+5. Manutenção e Atualizações: O sistema deve permitir fácil manutenção e atualizações periódicas para incorporar novas funcionalidades e melhorias.
+6. Usabilidade: O sistema deve ser fácil de usar, com uma curva de aprendizado mínima para que todos os usuários possam interagir com as funcionalidades sem dificuldades.
+
