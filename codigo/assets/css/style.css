@@ -1,0 +1,177 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+#profile-img{ 
+    max-width: 40px;
+}
+
+#logo{
+    max-width: 120px;
+}  
+
+a {
+    color: black;
+  }
+  
+  a:hover {
+    color: darkgray; 
+}
+
+#sideList li{
+    padding: 15px;
+}
+
+#navIcon{
+    color: rgb(33, 97, 193);
+}
+
+#border{
+    width: 90%;
+}
+
+#main {
+    height: 50vh; /* ocupa 50% da altura da tela */
+}
+
+#formCadastro{
+    font-size: 1rem;
+}
+
+input:focus, input.form-control:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+
+@media (min-width: 992px) {
+    #profile-img{ 
+        max-width: 120px;
+    }  
+}
+
+
+ 
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#profile-img{ 
+    max-width: 40px;
+}
+
+#logo{
+    max-width: 120px;
+}   
+
+a {
+    color: black;
+  }
+  
+  a:hover {
+    color: darkgray; 
+}
+
+#sideList li{
+    padding: 15px;
+}
+
+#navIcon{
+    color: rgb(33, 97, 193);
+}
+
+#border{
+    width: 90%;
+}
+
+#main {
+    height: 50vh; /* ocupa 50% da altura da tela */
+}
+
+#formCadastro{
+    font-size: 1rem;
+}
+
+input:focus, input.form-control:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+
+@media (min-width: 992px) {
+    #profile-img{ 
+        max-width: 120px;
+    }  
+}
+.botaoFeedback{
+    border: none;
+}
+
+.modal {
+    display: none; 
+    border: none;
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
+}
+
+.modal-conteudo {
+    border: none;
+    background-color: #fefefe;
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; 
+}
+
+.fechar {
+    border: none;
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.fechar:hover,
+.fechar:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+}
+
+#botaoFeedback {
+    border: none;
+    background-color: transparent; 
+    cursor: pointer; 
+}
+
+#campoFeedback {
+    width: 100%; 
+    box-sizing: border-box; 
+}
+.botaoEnviarFeedback{
+    text-align: center;
+}
+
+ 
+.textoBranco{
+    color: white;
+}
+
